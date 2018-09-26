@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="138px" height="138px" viewBox="0 0 138 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#429321" offset="0%"></stop>
+            <stop stop-color="#9FD047" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="48.6523438 61.390625 87.6757812 61.390625 87.6757812 26 101.328125 26 101.328125 116.46875 87.6757812 116.46875 87.6757812 74.2226562 48.6523438 74.2226562 48.6523438 116.46875 35 116.46875 35 26 48.6523438 26"></polygon>
+        <filter x="-9.0%" y="-5.5%" width="112.1%" height="108.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-2" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4" transform="translate(-131.000000, -131.000000)">
+            <g id="Group" transform="translate(131.000000, 131.000000)">
+                <rect id="Rectangle-Copy" fill="url(#linearGradient-1)" x="0" y="0" width="138" height="138" rx="26"></rect>
+                <g id="H-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
